@@ -3,7 +3,9 @@ Online course at IMSP in October 2020
 
 ### Day 1, October 1
 Introduction to IoT (1h) - Marco Zennaro
+
 IoT and SDGs (1h) - Marco Zennaro
+
 Getting started with Python (1h) - Sidoine Ode
 
 ### Day 2, October 7
